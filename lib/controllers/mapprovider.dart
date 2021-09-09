@@ -40,7 +40,7 @@ class MapProvider extends ChangeNotifier {
 
   void sendLocationToDatabase() async {
     Random random = new Random();
-    var numb = random.nextInt(4);
+    var numb = random.nextInt(8);
     message = 'Location stored successfully!';
     notifyListeners();
     try {

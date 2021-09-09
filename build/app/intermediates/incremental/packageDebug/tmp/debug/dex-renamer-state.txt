@@ -1,4 +1,4 @@
-#Thu Sep 09 15:47:56 WAT 2021
-base.0=/home/kest/Documents/flut/Took/locator/build/app/intermediates/dex/debug/mergeDexDebug/classes.dex
+#Thu Sep 09 18:26:54 WAT 2021
+base.0=/home/kest/Documents/flut/Took/Locator/build/app/intermediates/dex/debug/mergeDexDebug/classes.dex
 path.0=classes.dex
 renamed.0=classes.dex
