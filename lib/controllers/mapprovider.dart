@@ -47,7 +47,7 @@ class MapProvider extends ChangeNotifier {
       GoogleApi googleApi = GoogleApi();
       LocationModel locationModel =
           LocationModel(address: "${address.addressLine}", storeId: numb);
-      print("_address.addressLine");
+      print("${address.addressLine}");
       var result = await googleApi.sendLocation(locationModel);
       print("location stored: $result");
     } catch (error) {
