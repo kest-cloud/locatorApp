@@ -1,6 +1,5 @@
 # This is a generated file; do not edit or check into version control.
 flutter_plugin_android_lifecycle=/home/kest/snap/flutter/common/flutter/.pub-cache/hosted/pub.dartlang.org/flutter_plugin_android_lifecycle-2.0.3/
-geocoder=/home/kest/snap/flutter/common/flutter/.pub-cache/hosted/pub.dartlang.org/geocoder-0.2.1/
 geolocator=/home/kest/snap/flutter/common/flutter/.pub-cache/hosted/pub.dartlang.org/geolocator-7.6.0/
 geolocator_android=/home/kest/snap/flutter/common/flutter/.pub-cache/hosted/pub.dartlang.org/geolocator_android-1.0.0/
 geolocator_apple=/home/kest/snap/flutter/common/flutter/.pub-cache/hosted/pub.dartlang.org/geolocator_apple-1.2.0/

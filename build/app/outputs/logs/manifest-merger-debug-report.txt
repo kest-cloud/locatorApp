@@ -8,7 +8,6 @@ MERGED from /home/kest/Documents/flut/Took/Locator/android/app/src/main/AndroidM
 MERGED from [:geolocator_android] /home/kest/Documents/flut/Took/Locator/build/geolocator_android/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-7:12
 MERGED from [:google_maps_flutter] /home/kest/Documents/flut/Took/Locator/build/google_maps_flutter/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-7:12
 MERGED from [:flutter_plugin_android_lifecycle] /home/kest/Documents/flut/Took/Locator/build/flutter_plugin_android_lifecycle/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-7:12
-MERGED from [:geocoder] /home/kest/Documents/flut/Took/Locator/build/geocoder/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-7:12
 MERGED from [com.google.android.gms:play-services-location:17.0.0] /home/kest/.gradle/caches/transforms-2/files-2.1/340206bb4856bf61e48bd10632b21882/jetified-play-services-location-17.0.0/AndroidManifest.xml:2:1-9:12
 MERGED from [com.google.android.gms:play-services-maps:17.0.0] /home/kest/.gradle/caches/transforms-2/files-2.1/c5de8972dacd649c27c247c9e16de3ac/jetified-play-services-maps-17.0.0/AndroidManifest.xml:17:1-38:12
 MERGED from [com.google.android.gms:play-services-base:17.0.0] /home/kest/.gradle/caches/transforms-2/files-2.1/7c879cb157fab2c9a5d74c3d70fd64e3/jetified-play-services-base-17.0.0/AndroidManifest.xml:17:1-29:12
@@ -139,8 +138,6 @@ MERGED from [:google_maps_flutter] /home/kest/Documents/flut/Took/Locator/build/
 MERGED from [:google_maps_flutter] /home/kest/Documents/flut/Took/Locator/build/google_maps_flutter/intermediates/library_manifest/debug/AndroidManifest.xml:5:5-44
 MERGED from [:flutter_plugin_android_lifecycle] /home/kest/Documents/flut/Took/Locator/build/flutter_plugin_android_lifecycle/intermediates/library_manifest/debug/AndroidManifest.xml:5:5-44
 MERGED from [:flutter_plugin_android_lifecycle] /home/kest/Documents/flut/Took/Locator/build/flutter_plugin_android_lifecycle/intermediates/library_manifest/debug/AndroidManifest.xml:5:5-44
-MERGED from [:geocoder] /home/kest/Documents/flut/Took/Locator/build/geocoder/intermediates/library_manifest/debug/AndroidManifest.xml:5:5-44
-MERGED from [:geocoder] /home/kest/Documents/flut/Took/Locator/build/geocoder/intermediates/library_manifest/debug/AndroidManifest.xml:5:5-44
 MERGED from [com.google.android.gms:play-services-location:17.0.0] /home/kest/.gradle/caches/transforms-2/files-2.1/340206bb4856bf61e48bd10632b21882/jetified-play-services-location-17.0.0/AndroidManifest.xml:5:5-44
 MERGED from [com.google.android.gms:play-services-location:17.0.0] /home/kest/.gradle/caches/transforms-2/files-2.1/340206bb4856bf61e48bd10632b21882/jetified-play-services-location-17.0.0/AndroidManifest.xml:5:5-44
 MERGED from [com.google.android.gms:play-services-maps:17.0.0] /home/kest/.gradle/caches/transforms-2/files-2.1/c5de8972dacd649c27c247c9e16de3ac/jetified-play-services-maps-17.0.0/AndroidManifest.xml:20:5-44

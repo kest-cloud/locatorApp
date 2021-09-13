@@ -7,12 +7,12 @@ class GoogleApi {
   String url = "http://10.0.2.2:5000/api/v1";
 
   Future<List<LocationModel>> findAll() async {
-    var response = await http.get(Uri.parse('$url/stores'));
+    var response = await http.get(Uri.parse('$url/location'));
 
     if (response.statusCode == 200) {
       List<dynamic> body = jsonDecode(response.body);
 
-      return body.map((stores) => LocationModel.fromJson(stores)).toList();
+      return body.map((location) => LocationModel.fromJson(location)).toList();
       // return body.fromJson(jsonDecode(response.body));
       //return body.map((posts) => Post.fromJson(posts));
     } else {
@@ -22,7 +22,7 @@ class GoogleApi {
 
   Future sendLocation(LocationModel locationModel) async {
     final response = await http.post(
-      Uri.parse('$url/stores'),
+      Uri.parse('$url/location'),
       headers: <String, String>{
         'Content-Type': 'application/json; charset=UTF-8',
       },
@@ -35,7 +35,7 @@ class GoogleApi {
       // If the server did not return a 201 CREATED response,
       // then throw an exception.
       print(response.statusCode);
-      throw Exception('Failed to send Address.');
+      throw Exception('Failed to send Coordinate.');
     }
   }
 }

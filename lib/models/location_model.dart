@@ -1,20 +1,17 @@
 class LocationModel {
-  int storeId;
-  String address;
+  List coordinates;
 
-  LocationModel({required this.storeId, required this.address});
+  LocationModel({required this.coordinates});
 
   factory LocationModel.fromJson(Map<String, dynamic> json) {
     return LocationModel(
-      storeId: json["storeId"] as int,
-      address: json["address"] as String,
+      coordinates: json["coordinates"] as List,
     );
   }
 
   Map<String, dynamic> toJson() {
     return {
-      "storeId": storeId,
-      "address": address,
+      "coordinates": coordinates,
     };
   }
 }
