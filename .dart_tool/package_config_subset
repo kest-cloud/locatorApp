@@ -6,6 +6,10 @@ async
 2.12
 file:///home/kest/snap/flutter/common/flutter/.pub-cache/hosted/pub.dartlang.org/async-2.6.1/
 file:///home/kest/snap/flutter/common/flutter/.pub-cache/hosted/pub.dartlang.org/async-2.6.1/lib/
+bloc
+2.12
+file:///home/kest/snap/flutter/common/flutter/.pub-cache/hosted/pub.dartlang.org/bloc-7.1.0/
+file:///home/kest/snap/flutter/common/flutter/.pub-cache/hosted/pub.dartlang.org/bloc-7.1.0/lib/
 boolean_selector
 2.12
 file:///home/kest/snap/flutter/common/flutter/.pub-cache/hosted/pub.dartlang.org/boolean_selector-2.1.0/
@@ -34,6 +38,10 @@ fake_async
 2.12
 file:///home/kest/snap/flutter/common/flutter/.pub-cache/hosted/pub.dartlang.org/fake_async-1.2.0/
 file:///home/kest/snap/flutter/common/flutter/.pub-cache/hosted/pub.dartlang.org/fake_async-1.2.0/lib/
+flutter_bloc
+2.12
+file:///home/kest/snap/flutter/common/flutter/.pub-cache/hosted/pub.dartlang.org/flutter_bloc-7.2.0/
+file:///home/kest/snap/flutter/common/flutter/.pub-cache/hosted/pub.dartlang.org/flutter_bloc-7.2.0/lib/
 flutter_plugin_android_lifecycle
 2.12
 file:///home/kest/snap/flutter/common/flutter/.pub-cache/hosted/pub.dartlang.org/flutter_plugin_android_lifecycle-2.0.3/
@@ -104,8 +112,8 @@ file:///home/kest/snap/flutter/common/flutter/.pub-cache/hosted/pub.dartlang.org
 file:///home/kest/snap/flutter/common/flutter/.pub-cache/hosted/pub.dartlang.org/plugin_platform_interface-2.0.1/lib/
 provider
 2.12
-file:///home/kest/snap/flutter/common/flutter/.pub-cache/hosted/pub.dartlang.org/provider-5.0.0/
-file:///home/kest/snap/flutter/common/flutter/.pub-cache/hosted/pub.dartlang.org/provider-5.0.0/lib/
+file:///home/kest/snap/flutter/common/flutter/.pub-cache/hosted/pub.dartlang.org/provider-6.0.0/
+file:///home/kest/snap/flutter/common/flutter/.pub-cache/hosted/pub.dartlang.org/provider-6.0.0/lib/
 source_span
 2.12
 file:///home/kest/snap/flutter/common/flutter/.pub-cache/hosted/pub.dartlang.org/source_span-1.8.1/

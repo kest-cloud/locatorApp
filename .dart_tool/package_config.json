@@ -8,6 +8,12 @@
       "languageVersion": "2.12"
     },
     {
+      "name": "bloc",
+      "rootUri": "file:///home/kest/snap/flutter/common/flutter/.pub-cache/hosted/pub.dartlang.org/bloc-7.1.0",
+      "packageUri": "lib/",
+      "languageVersion": "2.12"
+    },
+    {
       "name": "boolean_selector",
       "rootUri": "file:///home/kest/snap/flutter/common/flutter/.pub-cache/hosted/pub.dartlang.org/boolean_selector-2.1.0",
       "packageUri": "lib/",
@@ -52,6 +58,12 @@
     {
       "name": "flutter",
       "rootUri": "file:///home/kest/snap/flutter/common/flutter/packages/flutter",
+      "packageUri": "lib/",
+      "languageVersion": "2.12"
+    },
+    {
+      "name": "flutter_bloc",
+      "rootUri": "file:///home/kest/snap/flutter/common/flutter/.pub-cache/hosted/pub.dartlang.org/flutter_bloc-7.2.0",
       "packageUri": "lib/",
       "languageVersion": "2.12"
     },
@@ -171,7 +183,7 @@
     },
     {
       "name": "provider",
-      "rootUri": "file:///home/kest/snap/flutter/common/flutter/.pub-cache/hosted/pub.dartlang.org/provider-5.0.0",
+      "rootUri": "file:///home/kest/snap/flutter/common/flutter/.pub-cache/hosted/pub.dartlang.org/provider-6.0.0",
       "packageUri": "lib/",
       "languageVersion": "2.12"
     },
@@ -242,7 +254,7 @@
       "languageVersion": "2.12"
     }
   ],
-  "generated": "2021-09-12T18:49:56.550066Z",
+  "generated": "2021-09-14T03:22:03.777038Z",
   "generator": "pub",
   "generatorVersion": "2.13.4"
 }

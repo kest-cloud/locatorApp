@@ -1,14 +1,13 @@
 // @dart=2.9
 
 import 'package:flutter/material.dart';
+import 'package:flutter_bloc/flutter_bloc.dart';
 import 'package:locator/screens/map.dart';
-import 'package:provider/provider.dart';
-
-import 'controllers/mapprovider.dart';
+import 'cubit/location_cubit.dart';
 
 void main() {
-  runApp(MultiProvider(
-    providers: [ChangeNotifierProvider(create: (context) => MapProvider())],
+  runApp(BlocProvider(
+    create: (BuildContext context) => LocationCubit(),
     child: MyApp(),
   ));
 }
